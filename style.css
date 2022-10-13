@@ -1,0 +1,17 @@
+body{
+    font-weight: bold;
+
+}
+button{
+    position: absolute;
+    cursor: pointer;
+    background-origin: padding-box;
+    border: none;
+    font-size: large;
+    top: 90%;
+    padding: 1rem 1rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 183, 0.589);
+}
+button:hover{
+    box-shadow: 0px 0px 8px rgba(0, 255, 183, 0.589);
+}
